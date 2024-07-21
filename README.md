@@ -312,5 +312,4 @@ A: Because they don't C#!
 Q. How do JavaScript developers flirt?
 
 A: By saying, "You must be a callback, because I'm asyncing about you."
-
 ---
